@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "pk~DkRjlBpC#67nCuOl7cqbzJAVpgGCu5jXekyZbcH_GvlWp5wQYToQ",
+SESSION_ID: process.env.SESSION_ID || "pk~q4IkFALB#aipqMoiZXicH3VZx8xN78FtxDt6wIhlxAxF3OUhuQuA",
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
@@ -23,7 +23,7 @@ CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 DELETE_LINKS: process.env.DELETE_LINKS || "true",
 OWNER_NUMBER: process.env.OWNER_NUMBER || "998886799790",
-OWNER_NAME: process.env.OWNER_NAME || "nova-xmd",
+OWNER_NAME: process.env.OWNER_NAME || "wowy-xmd",
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ pkdriller*",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/fgiecg.jpg",
 LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *PK-XMD*⚡",
