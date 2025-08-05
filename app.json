@@ -9,7 +9,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "pk~Tg5mGIJY#0viG91_xXwWLvPQCzZLja_AgajUqnhHtqPNz7SiEPc4"
     },
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
@@ -29,17 +29,17 @@
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AUTO_VOICE": {
       "description": "Make it true if want automatic voice reply .",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AUTO_REPLY": {
       "description": "Make it true if you want automatic reply.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AUTO_STICKER": {
       "description": "Make it true if you want automatic sticker.",
